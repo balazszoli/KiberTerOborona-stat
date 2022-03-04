@@ -2,6 +2,5 @@ https://212.193.54.159/ + Host: vokzalbelgorod.ru
 https://212.193.54.159/ + Host: vokzalkursk.ru
 https://212.193.54.159/ + Host: vokzalrostov.ru
 https://apteka.ru/category/derma_cosmetics/body/?withprice=1&withprofit=1
-https://apteka.ru/category/derma_cosmetics/body/?withprice=1&withprofit=1
 https://194.87.217.26/raspisanie/sevastopol + Host: avtovokzaly.ru
 https://marmeladmall.ru/ + Cookie: MarmID=waG0yov9
