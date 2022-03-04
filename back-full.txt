@@ -6,10 +6,8 @@ https://www.govvrn.ru/uslugi
 https://www.poezda.net/
 http://77.222.61.246/ + Host: kak-doehat.ru
 https://212.193.54.159/ + Host: vokzalbelgorod.ru
-https://212.193.54.159/ + Host: vokzalkursk.ru
-https://212.193.54.159/ + Host: vokzalrostov.ru
 https://85.15.69.64/wp-content/themes/wp1/ajax_api.php?action=get_stations&node=from&term=%D0%BC%D0%BE%D1%81&from_id=&api_version=2 + Host: rfbus.ru
-https://217.23.150.9/nalichie-mest/Kazan/Sankt-Peterburg/?SearchForm%5BdateTo%5D=09.03.2022 + Host: poezd.ru
+https://217.23.150.9/nalichie-mest/Kazan/Sankt-Peterburg/?SearchForm%5BdateTo%5D=10.03.2022 + Host: poezd.ru
 http://www.belzdrav.ru/
 http://www.tmo-10.vrn.ru/
 https://web2.rkursk.ru/projects-map/borders.json
