@@ -14,3 +14,7 @@ https://194.87.217.26/raspisanie/sevastopol + Host: avtovokzaly.ru
 http://ffoms.ru/
 https://suggest.travelpayouts.com/uaca/v1/search_terms_proxy?term=%D0%BC&service=tutu_bus
 https://194.87.217.26/raspisanie/sevastopol + Host: avtovokzaly.ru
+https://grozcrb.ru/
+http://vaynahavia.com/
+http://airportmagas.ru/
+https://mav.aero/
