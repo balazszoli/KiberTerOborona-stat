@@ -1,20 +1,14 @@
 https://www.ffoms.gov.ru/
-https://85.15.69.64/wp-content/themes/wp1/ajax_api.php?action=get_stations&node=from&term=%D0%BC%D0%BE%D1%81&from_id=&api_version=2 + Host: rfbus.ru
-https://www.govvrn.ru/uslugi
 https://www.avtovokzaly.ru/raspisanie/sevastopol
 https://rzd.ru
 http://voronezh.rusavtobus.ru/modules/autocomplete/autocomplete.php?q=%D0%BA%D0%BE%D0%BB&city=%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6
 http://taganrog-gbsmp.ru/
-https://rzd.ru
-https://apteka.ru/category/proficosmetics/profiface/?filter=brand%3Aaravia_professional%2Bestel%2Brevitalash%3Bob%3A150%3B&withprice=1&noindex=1
-https://apteka.ru/search/?q=%D0%91%D0%B8%D1%84%D0%B8%D1%84%D0%BE%D1%80%D0%BC
-https://apteka.ru/category/vitamin-mineral/womens_health/?filter=naz%3Adlyaz%2Bdlyan%2Bdlyano%3Bfor%3Akap%3B&noindex=1&withprofit=1
-https://api.apteka.ru/AutoDest/PointList?inLatitudeTop=55.9668609&inLatitudeBottom=55.4798051&inLongitudeLeft=37.22770785&inLongitudeRight=37.98090315&cityId=5e57803249af4c0001d64407
 https://194.87.217.26/raspisanie/sevastopol + Host: avtovokzaly.ru
 http://ffoms.ru/
 https://suggest.travelpayouts.com/uaca/v1/search_terms_proxy?term=%D0%BC&service=tutu_bus
-https://194.87.217.26/raspisanie/sevastopol + Host: avtovokzaly.ru
 https://grozcrb.ru/
 http://vaynahavia.com/
 http://airportmagas.ru/
 https://mav.aero/
+https://www.gbu-kb4.ru/component/search/?searchword=%D0%BF%D0%B5%D1%80&searchphrase=all&Itemid=124
+http://gbu-bolnica6.ru/component/search/?searchword=%D0%BF%D0%B5%D1%80&ordering=newest&searchphrase=all
