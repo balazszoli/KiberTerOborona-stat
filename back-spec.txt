@@ -1,5 +1,3 @@
-https://rfbus.ru/category/news
-https://rfbus.ru/wp-content/themes/wp1/ajax_api.php?action=get_stations&node=from&term=%D1%81&from_id=&api_version=2
 http://ffoms.ru/
 http://www.ffoms.gov.ru/
 http://taganrog-gbsmp.ru/
