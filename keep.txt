@@ -6,7 +6,6 @@ https://apteka.ru/moskva/regions/preparation/
 https://images.apteka.ru/poster_621de3f80b1a80dad6571d92_-288924552.webp
 https://apteka.ru/regions/medicines-list/?char=%D0%BC
 https://apteka.ru/moskva/regions/preparation/
-https://images.apteka.ru/poster_621de3f80b1a80dad6571d92_-288924552.webp
 https://apteka.ru/regions/medicines-list/?char=%D0%BC
 https://rzd.ru
 https://travel.rzd.ru/api/v1/suggestions/hotelcity?name=%D0%A1%D0%BE&limitCity=200&limitHotel=20
@@ -17,3 +16,4 @@ https://185.234.247.237/forum/viewforum.php?f=1958 + Host: rutracker.org
 https://185.234.247.237/forum/viewforum.php?f=930&start=1450 + Host: rutracker.org
 https://185.234.247.237/forum/viewforum.php?f=1608&start=950 + Host: rutracker.org
 http://www.uztag.ru
+https://krasnodar1.ru/txt.php?nc=one&id=216
