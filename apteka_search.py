@@ -35,7 +35,8 @@ phrases = csv_to_list(phrases_csv)
 
 
 async def search_apteka(session, c, w, ps, p):
-    url = 'https://api.apteka.ru/Search/ByPhrase?pageSize=100&page=1&iPharmTownId=&withprice=true&withprofit=true&withpromovits=true&phrase=%s&cityId=%s' % (w, c)
+    url = 'https://api.apteka.ru/Search/ByPhrase?pageSize=%s&page=%s&iPharmTownId=&withprice=true&withprofit=true&withpromovits=true&phrase=%s&cityId=%s' % (
+    ps, p, w, c)
     async with session.get(url) as resp:
         apteka = await resp.json()
         print(url)
