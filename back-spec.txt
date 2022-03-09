@@ -3,9 +3,6 @@ http://www.uztag.ru
 https://www.ffoms.gov.ru/
 http://ffoms.ru/
 http://taganrog-gbsmp.ru/
-https://185.234.247.237/forum/viewforum.php?f=1958 + Host: rutracker.org
-https://185.234.247.237/forum/viewforum.php?f=930&start=1450 + Host: rutracker.org
-https://185.234.247.237/forum/viewforum.php?f=1608&start=950 + Host: rutracker.org
 https://vokzal.ru/raspisanie/Moskva/Kozhva/2000000/2010079
 https://travel.rzd.ru/api/v1/suggestions/hotelcity?name=%D0%A1%D0%BE&limitCity=200&limitHotel=20
 https://travel.rzd.ru/hotels/search?adult=2&child=0&infant=0&checkInDate=2022-03-17&checkOutDate=2022-03-19&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5e1c9e185de140eada26b02f
