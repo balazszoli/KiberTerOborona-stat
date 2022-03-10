@@ -15,3 +15,6 @@ https://212.164.138.128/ + Host: rzd.ru
 https://212.164.138.126/ + Host: rzd.ru
 https://vokzal.ru/raspisanie/Moskva/Kozhva/2000000/2010079
 http://www.uztag.ru/sitemap.html
+https://moscow.fas.gov.ru/search/%D0%BF%D0%B5%D1%80%7Csort%3D0
+https://mostpp.ru/news/deyatelnost-mtpp/
+https://www.advokatymoscow.ru/press/events/
