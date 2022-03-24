@@ -67,5 +67,11 @@ async def main():
             tasks.append(asyncio.ensure_future(post_wildberries(session, r)))
         respo = await asyncio.gather(*tasks)
 
-asyncio.run(main())
+while True:
+    try:
+        asyncio.run(main())
+    except Exception as e:
+        print('Exception: {e}')
+        
+    sleep(480000 / 1000)
 
