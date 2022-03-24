@@ -1,5 +1,6 @@
 import aiohttp
 import asyncio
+import time
 import csv
 from time import sleep
 
