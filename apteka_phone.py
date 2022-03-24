@@ -72,7 +72,7 @@ while True:
     try:
         asyncio.run(main())
     except Exception as e:
-        print('Exception: {e}')
+        print(f'Exception: {e}')
         
     sleep(480000 / 1000)
     
