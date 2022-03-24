@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 import csv
-
+from time import sleep
 
 url = 'https://www.wildberries.ru/mobile/requestconfirmcode?forAction=EasyLogin'
 
