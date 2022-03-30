@@ -1,6 +1,5 @@
 import aiohttp
 import asyncio
-import time
 import csv
 from time import sleep
 
@@ -16,7 +15,7 @@ wildberries_request_data_template = {
         'phonemobile': '79522803492',
         'agreeToReceiveSms': 'true',
         'shortSession': 'false',
-        'period' : 'ru',
+        'period': 'ru',
 }
     
 def set_number(number):
