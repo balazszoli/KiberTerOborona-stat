@@ -24,6 +24,3 @@ https://212.164.138.129/ + Host: rzd.ru
 https://epp.genproc.gov.ru/web/gprf/mass-media/media-files/photo?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ksOmoGIUgWEF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ksOmoGIUgWEF_delta=30&p_r_p_resetCur=false&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ksOmoGIUgWEF_cur=8
 https://r77.fssp.gov.ru/search/?string=%EF%E5%F0&date_from=01.03.1960&date_to=&where=1
 https://mtuf.ru/photo/sport/turnir-po-peyntbolu-sredi-chlenskikh-organizatsiy-mfp/#slider-images-1
-https://146.158.52.21/ + Host: avito.ru
-https://146.158.54.21/ + Host: avito.ru
-https://146.158.48.21/ + Host: avito.ru
