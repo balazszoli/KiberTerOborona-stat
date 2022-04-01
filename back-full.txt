@@ -1,4 +1,5 @@
 https://www.asna.ru/
+https://78.155.195.212/ + Host: asna.ru
 https://online.gomeofarm.ru/
 https://aptekamos.ru/
 https://aptekamos.ru/tovary/poisk?q=%D0%B0%D0%BC%D0%B8&&inr=0
@@ -6,5 +7,7 @@ https://aptekamos.ru/tovary/poisk?q=%D0%BC%D0%B8%D0%BD&&inr=0
 https://aptekamos.ru/tovary/lekarstva/folievaya-kislota-1009/9-mesyacev-folievaya-kislota-tabletki-400mkg-51580/ceni
 https://gorzdrav.org/
 https://zdravcity.ru/
+http://172.67.201.238/ + Host: zdravcity.ru
 https://stolichki.ru/
+http://178.248.238.226/ + Host: stolichki.ru
 https://uteka.ru/
