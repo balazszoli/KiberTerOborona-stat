@@ -15,3 +15,4 @@ https://194.154.72.193/ + Host: proapteka.ru
 https://194.146.119.193/ + Host: proapteka.ru
 https://194.0.219.32/ + Host: edu.rosminzdrav.ru
 https://194.0.219.33/ + Host: edu.rosminzdrav.ru
+https://5.8.181.89/ + Host: zdesapteka.ru
