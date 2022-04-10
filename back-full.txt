@@ -11,7 +11,31 @@ https://ugmk-clinic.ru
 https://emcmos.ru
 https://emcmos.ru/excelrenderer.aspx
 https://emcmos.ru/ftpupdater
-https://lcenter.ru/direction/onkologiya-mammologiya/
+ https://emcmos.ru/plugins/Contents/lang/ro.json
+ https://emcmos.ru/produktpdf
+ https://emcmos.ru/OpenMarket/Xcelerate/AssetType/GSCarta/ContentForm
+ https://emcmos.ru/politics
+ https://emcmos.ru/elogs
+ https://emcmos.ru/speedy
+ https://emcmos.ru/data_10.sql
+ https://emcmos.ru/bcbtest
+ https://emcmos.ru/Admin/login/
+ https://emcmos.ru/specialoffers
+ https://emcmos.ru/points
+ https://emcmos.ru/plugins/Contents/lang/et.json
+ https://emcmos.ru/OpenMarket/Xcelerate/AssetType/GSProcedimiento/ContentDetails
+ https://emcmos.ru/parse_xml.cgi
+ https://emcmos.ru/specials
+ https://emcmos.ru/showkey
+ https://emcmos.ru/demo.asp
+ https://emcmos.ru/core/Tracker/TrackerConfig.php
+ https://emcmos.ru/skeeter
+ https://emcmos.ru/OpenMarket/Xcelerate/AssetType/GSPreguntaFrecuente/IndexAdd
+ https://emcmos.ru//modules/simpletest/tests/filter_test.info
+ https://emcmos.ru/_demo
+ https://emcmos.ru/app/Resources/assets/scss/bootstrap/mixins/_hide-text.scss
+ https://emcmos.ru/assetmaker
+ https://lcenter.ru/direction/onkologiya-mammologiya/
 https://lcenter.ru/direction/ginekologiya/
 https://prioritet03.ru/theme/prioritet03/images/logo4.jpg
 https://prioritet03.ru/images/banner/1607092265.jpg
