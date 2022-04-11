@@ -15,12 +15,14 @@ https://www.delivery-club.ru/
 https://dostavka-produktov.ru/
 https://goldniva.ru/
 https://gs.market/
+https://gs.market/?
+https://gs.market/.
+https://gs.market/./
+https://gs.market/#
 https://igooods.ru/
 https://im-lavka.ru/
 https://itsfresh.ru/
 https://keesla.ru/
 https://megaeko.ru/
-https://myspar.ru/
 https://okodo.ru/
-https://samokat.ru/
 https://spardostavka.ru/
