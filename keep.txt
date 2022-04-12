@@ -1,7 +1,4 @@
 https://mc21.ru
-https://mc21.ru/?query=%D1%82%D0%B5%D1%81
-https://lcenter.ru/direction/onkologiya-mammologiya/
-https://lcenter.ru/direction/ginekologiya/
 https://mc21.ru/vb4
 https://mc21.ru/vbadjuntos
 https://mc21.ru/vb2
@@ -10,14 +7,16 @@ https://mc21.ru/vb3
 https://mc21.ru/vb5
 https://mc21.ru/vb
 https://mc21.ru/vault
-https://mc21.ru/vb_albums
-https://mc21.ru/vbb
 http://24supermarket.ru/
 https://bringston.ru/
 https://www.delikateska.ru/
 https://dostavka-produktov.ru/
 https://goldniva.ru/
 https://gs.market/
+https://gs.market/?
+https://gs.market/.
+https://gs.market/./
+https://gs.market/#
 https://igooods.ru/
 https://im-lavka.ru/
 https://itsfresh.ru/
@@ -25,5 +24,4 @@ https://keesla.ru/
 https://megaeko.ru/
 https://myspar.ru/
 https://okodo.ru/
-https://samokat.ru/
 https://spardostavka.ru/
