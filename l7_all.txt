@@ -18,6 +18,8 @@ http://novayawear.com
 https://novayawear.com
 http://5.23.51.100:80
 https://5.23.51.100:443
+http://92.255.106.214:80
+https://92.255.106.214:443
 http://ostin.com
 https://ostin.com
 http://62.76.79.210:80
