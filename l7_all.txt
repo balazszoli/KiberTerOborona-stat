@@ -38,10 +38,6 @@ http://garagebarbers.net
 https://garagebarbers.net
 http://185.230.63.171:80
 https://185.230.63.171:443
-http://inhype-beauty.ru
-https://inhype-beauty.ru
-http://185.165.123.36:80
-https://185.165.123.36:443
 http://l-e-t-o.ru
 https://l-e-t-o.ru
 http://217.144.96.206:80
@@ -50,10 +46,6 @@ http://llmanikur.ru
 https://llmanikur.ru
 http://89.108.85.33:80
 https://89.108.85.33:443
-http://lnbb.ru
-https://lnbb.ru
-http://185.165.123.36:80
-https://185.165.123.36:443
 http://molodejnaya.barbarossa.top
 https://molodejnaya.barbarossa.top
 http://87.236.16.238:80
