@@ -10,14 +10,6 @@ http://gate31.ru
 https://gate31.ru
 http://85.119.149.174:80
 https://85.119.149.174:443
-http://ostin.com
-https://ostin.com
-http://62.76.79.210:80
-https://62.76.79.210:443
-http://pfgstudio.com
-https://pfgstudio.com
-http://62.109.18.209:80
-https://62.109.18.209:443
 http://shuclothes.com
 https://shuclothes.com
 http://77.223.98.172:80
