@@ -10,12 +10,6 @@ http://gate31.ru
 https://gate31.ru
 http://85.119.149.174:80
 https://85.119.149.174:443
-http://novayawear.com
-https://novayawear.com
-http://5.23.51.100:80
-https://5.23.51.100:443
-http://92.255.106.214:80
-https://92.255.106.214:443
 http://ostin.com
 https://ostin.com
 http://62.76.79.210:80
