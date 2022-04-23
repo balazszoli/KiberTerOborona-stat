@@ -1,40 +1,44 @@
-tcp://95.213.153.50:80
-tcp://95.213.153.50:443
-tcp://95.213.153.50:21
-tcp://95.213.153.50:22
-tcp://95.213.153.50:110
-tcp://95.213.153.50:143
-tcp://185.178.46.56:80
-tcp://185.178.46.56:443
-tcp://185.178.46.56:21
-tcp://185.178.46.56:22
-tcp://85.119.149.174:80
-tcp://85.119.149.174:443
-tcp://77.223.98.172:80
-tcp://77.223.98.172:443
-tcp://77.223.98.172:22
-tcp://78.108.86.39:80
-tcp://78.108.86.39:443
-tcp://78.108.86.39:21
-tcp://78.108.86.39:22
-tcp://78.108.86.39:110
-tcp://78.108.86.39:143
-tcp://94.228.118.31:80
-tcp://94.228.118.31:443
-tcp://94.228.118.31:21
-tcp://94.228.118.31:22
-tcp://5.101.153.201 :443
-tcp://5.101.153.201 :21
-tcp://5.101.153.201 :22
-tcp://188.225.34.165 :80
-tcp://188.225.34.165 :443
-tcp://188.225.34.165 :21
-tcp://188.225.34.165 :22
-tcp://78.155.215.66 :80
-tcp://78.155.215.66 :443
-tcp://185.165.123.36 :80
-tcp://185.165.123.36 :443
-tcp://91.226.83.92 :80
-tcp://91.226.83.92 :443
-tcp://91.226.83.92 :21
-tcp://91.226.83.92 :22
+http://conceptclub.ru
+https://conceptclub.ru
+http://95.213.153.50:80
+https://95.213.153.50:443
+http://cocos-moscow.ru
+https://cocos-moscow.ru
+http://185.178.46.56:80
+https://185.178.46.56:443
+http://gate31.ru
+https://gate31.ru
+http://85.119.149.174:80
+https://85.119.149.174:443
+http://shuclothes.com
+https://shuclothes.com
+http://77.223.98.172:80
+https://77.223.98.172:443
+http://stom-firms.ru
+https://stom-firms.ru
+http://78.108.86.39:80
+https://78.108.86.39:443
+http://ushatava.com
+https://ushatava.com
+http://94.228.118.31:80
+https://94.228.118.31:443
+https://rabota.conceptclub.ru 
+https://5.101.153.201 :443
+http://magic.conceptclub.ru 
+https://magic.conceptclub.ru 
+http://188.225.34.165 :80
+https://188.225.34.165 :443
+http://cloud.conceptclub.ru 
+https://cloud.conceptclub.ru 
+http://78.155.215.66 :80
+https://78.155.215.66 :443
+http://blog.cocos-moscow.ru 
+https://blog.cocos-moscow.ru 
+http://merch.cocos-moscow.ru 
+https://merch.cocos-moscow.ru 
+http://185.165.123.36 :80
+https://185.165.123.36 :443
+http://old.shuclothes.com 
+https://old.shuclothes.com 
+http://91.226.83.92 :80
+https://91.226.83.92 :443
