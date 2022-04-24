@@ -14,10 +14,6 @@ http://amalfibeauty.ru
 https://amalfibeauty.ru
 http://188.225.56.116:80
 https://188.225.56.116:443
-http://barberhall.moscow
-https://barberhall.moscow
-http://92.53.118.39:80
-https://92.53.118.39:443
 http://bondurant.ru
 https://bondurant.ru
 http://31.31.198.241:80
@@ -38,10 +34,6 @@ http://pilkinail.ru
 https://pilkinail.ru
 http://188.225.77.244:80
 https://188.225.77.244:443
-http://topgun.ru
-https://topgun.ru
-http://193.187.96.119:80
-https://193.187.96.119:443
 http://eu.oldboybarbershop.com 
 https://eu.oldboybarbershop.com 
 http://37.139.19.192:80
@@ -62,9 +54,7 @@ http://job.pilkinail.ru
 https://job.pilkinail.ru 
 http://176.99.12.210:80
 https://176.99.12.210:443
-http://45.128.206.108:80
-https://45.128.206.108:443
+http://pilkinail.ru 
+https://pilkinail.ru 
 http://94.228.116.202:80
 https://94.228.116.202:443
-http://92.255.106.219:80
-https://92.255.106.219:443
