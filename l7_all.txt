@@ -1,11 +1,3 @@
-http://cocos-moscow.ru
-https://cocos-moscow.ru
-http://185.178.46.56:80
-https://185.178.46.56:443
-http://merch.cocos-moscow.ru 
-https://merch.cocos-moscow.ru 
-http://185.165.123.36:80
-https://185.165.123.36:443
 http://10tentone.ru
 https://10tentone.ru
 http://23.111.200.73:80
