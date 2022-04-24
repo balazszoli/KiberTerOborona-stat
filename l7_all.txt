@@ -70,3 +70,17 @@ http://himki.britvabarber.ru
 https://himki.britvabarber.ru
 http://himki2.britvabarber.ru
 https://himki2.britvabarber.ru
+http://autodiscover.llmanikur.ru
+https://autodiscover.llmanikur.ru
+http://62.3.48.43:80
+https://62.3.48.43:443
+http://promo.llmanikur.ru
+https://promo.llmanikur.ru
+http://185.165.123.36:80
+https://185.165.123.36:443
+http://sertificat.llmanikur.ru
+https://sertificat.llmanikur.ru
+http://classic.llmanikur.ru
+https://classic.llmanikur.ru
+http://study.llmanikur.ru
+https://study.llmanikur.ru
