@@ -26,10 +26,6 @@ http://britvabarber.ru
 https://britvabarber.ru
 http://95.214.63.229:80
 https://95.214.63.229:443
-http://face-kontrol.ru
-https://face-kontrol.ru
-http://141.8.194.74:80
-https://141.8.194.74:443
 http://garagebarbers.net
 https://garagebarbers.net
 http://185.230.63.171:80
