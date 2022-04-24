@@ -62,3 +62,5 @@ http://job.pilkinail.ru
 https://job.pilkinail.ru 
 http://176.99.12.210:80
 https://176.99.12.210:443
+http://45.128.206.108:80
+https://45.128.206.108:443
