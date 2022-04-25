@@ -30,15 +30,3 @@ http://click.oldboybarbershop.com
 https://click.oldboybarbershop.com
 http://217.73.63.177:80
 https://217.73.63.177:443
-http://piter.britvabarber.ru
-https://piter.britvabarber.ru
-http://shop.britvabarber.ru
-https://shop.britvabarber.ru
-http://kazan.britvabarber.ru
-https://kazan.britvabarber.ru
-http://omsk.britvabarber.ru
-https://omsk.britvabarber.ru
-http://himki.britvabarber.ru
-https://himki.britvabarber.ru
-http://himki2.britvabarber.ru
-https://himki2.britvabarber.ru
