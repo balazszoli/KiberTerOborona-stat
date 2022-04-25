@@ -14,10 +14,6 @@ http://oldboybarbershop.com
 https://oldboybarbershop.com
 http://92.255.111.57:80
 https://92.255.111.57:443
-http://pilkinail.ru
-https://pilkinail.ru
-http://188.225.77.244:80
-https://188.225.77.244:443
 http://eu.oldboybarbershop.com
 https://eu.oldboybarbershop.com
 http://37.139.19.192:80
@@ -34,14 +30,6 @@ http://click.oldboybarbershop.com
 https://click.oldboybarbershop.com
 http://217.73.63.177:80
 https://217.73.63.177:443
-http://job.pilkinail.ru
-https://job.pilkinail.ru
-http://176.99.12.210:80
-https://176.99.12.210:443
-http://pilkinail.ru
-https://pilkinail.ru
-http://94.228.116.202:80
-https://94.228.116.202:443
 http://piter.britvabarber.ru
 https://piter.britvabarber.ru
 http://shop.britvabarber.ru
