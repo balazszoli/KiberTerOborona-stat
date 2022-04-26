@@ -30,3 +30,4 @@ http://click.oldboybarbershop.com
 https://click.oldboybarbershop.com
 http://217.73.63.177:80
 https://217.73.63.177:443
+http://62.113.104.210:80
