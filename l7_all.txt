@@ -2,10 +2,6 @@ http://b2b-center.ru
 https://b2b-center.ru
 http://79.171.117.82:80
 https://79.171.117.82:443
-http://fabrikant.ru
-https://fabrikant.ru
-http://178.248.234.36:80
-https://178.248.234.36:443
 http://astgoz.ru
 https://astgoz.ru
 http://213.171.56.148:80
