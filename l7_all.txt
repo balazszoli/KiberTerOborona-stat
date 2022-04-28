@@ -104,3 +104,7 @@ http://profizakupok.rts-tender.ru
 https://profizakupok.rts-tender.ru 
 http://82.200.44.83:80
 https://82.200.44.83:443
+http://smtp2.rts-tender.ru
+http://185.179.85.7:80
+https://old.rts-tender.ru
+https://185.179.85.84:443
