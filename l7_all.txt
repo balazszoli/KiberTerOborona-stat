@@ -76,8 +76,6 @@ http://rts-tender.ru
 https://rts-tender.ru
 http://185.179.85.62:80
 https://185.179.85.62:443
-https://rus-on.ru
-https://178.248.239.156:443
 http://sberbank-ast.ru
 https://sberbank-ast.ru
 http://193.104.207.65:80
