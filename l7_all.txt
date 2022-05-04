@@ -62,10 +62,6 @@ http://vodaplus.ru
 https://vodaplus.ru
 http://45.130.41.25:80
 https://45.130.41.25:443
-http://vodavspb.ru
-https://vodavspb.ru
-http://92.63.111.47:80
-https://92.63.111.47:443
 http://vodokachka.ru
 https://vodokachka.ru
 http://78.110.60.118:80
