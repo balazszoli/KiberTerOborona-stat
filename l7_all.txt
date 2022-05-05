@@ -6,10 +6,6 @@ http://aqua-life.spb.ru
 https://aqua-life.spb.ru
 http://141.8.194.149:80
 https://141.8.194.149:443
-http://aquabalt.ru
-https://aquabalt.ru
-http://37.140.195.222:80
-https://37.140.195.222:443
 http://aqualife.ru
 https://aqualife.ru
 http://151.248.125.20:80
@@ -34,10 +30,6 @@ http://h2o.ru
 https://h2o.ru
 http://90.156.201.102:80
 https://90.156.201.102:443
-http://healthwaters.ru
-https://healthwaters.ru
-http://212.92.101.151:80
-https://212.92.101.151:443
 http://navoda.ru
 https://navoda.ru
 http://87.236.16.18:80
@@ -46,10 +38,6 @@ http://oasis-gidro.ru
 https://oasis-gidro.ru
 http://87.236.16.27:80
 https://87.236.16.27:443
-http://top-cooler.ru
-https://top-cooler.ru
-http://87.236.16.139:80
-https://87.236.16.139:443
 http://vipservicemarket.ru
 https://vipservicemarket.ru
 http://92.53.96.50:80
@@ -58,10 +46,6 @@ http://voda-piter.ru
 https://voda-piter.ru
 http://87.236.16.88:80
 https://87.236.16.88:443
-http://vodaplus.ru
-https://vodaplus.ru
-http://45.130.41.25:80
-https://45.130.41.25:443
 http://vodokachka.ru
 https://vodokachka.ru
 http://78.110.60.118:80
