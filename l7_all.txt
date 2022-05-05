@@ -6,6 +6,8 @@ http://aqua-life.spb.ru
 https://aqua-life.spb.ru
 http://141.8.194.149:80
 https://141.8.194.149:443
+http://193.168.131.126:80
+https://193.168.131.126:443
 http://aqualife.ru
 https://aqualife.ru
 http://151.248.125.20:80
@@ -30,6 +32,8 @@ http://h2o.ru
 https://h2o.ru
 http://90.156.201.102:80
 https://90.156.201.102:443
+http://90.156.201.117:80
+https://90.156.201.117:443
 http://navoda.ru
 https://navoda.ru
 http://87.236.16.18:80
@@ -42,6 +46,8 @@ http://vipservicemarket.ru
 https://vipservicemarket.ru
 http://92.53.96.50:80
 https://92.53.96.50:443
+http://185.114.246.119:80
+https://185.114.246.119:443
 http://voda-piter.ru
 https://voda-piter.ru
 http://87.236.16.88:80
