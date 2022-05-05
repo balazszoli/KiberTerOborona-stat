@@ -26,10 +26,6 @@ http://navoda.ru
 https://navoda.ru
 http://87.236.16.18:80
 https://87.236.16.18:443
-http://oasis-gidro.ru
-https://oasis-gidro.ru
-http://87.236.16.27:80
-https://87.236.16.27:443
 http://voda-piter.ru
 https://voda-piter.ru
 http://87.236.16.88:80
