@@ -48,3 +48,11 @@ http://vodovoz.ru
 https://vodovoz.ru
 http://92.53.106.137:80
 https://92.53.106.137:443
+http://new.aquazet.ru 
+https://new.aquazet.ru 
+http://92.53.96.207:80
+https://92.53.96.207:443
+http://aquazet.ru 
+https://aquazet.ru 
+http://92.255.106.245:80
+https://92.255.106.245:443
