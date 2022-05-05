@@ -2,12 +2,6 @@ http://help-ukraine-people.com
 https://help-ukraine-people.com
 http://5.42.199.196:80
 https://5.42.199.196:443
-http://aqua-life.spb.ru
-https://aqua-life.spb.ru
-http://141.8.194.149:80
-https://141.8.194.149:443
-http://193.168.131.126:80
-https://193.168.131.126:443
 http://aqualife.ru
 https://aqualife.ru
 http://151.248.125.20:80
@@ -16,10 +10,6 @@ http://aquazet.ru
 https://aquazet.ru
 http://176.57.216.173:80
 https://176.57.216.173:443
-http://artezaaqua.ru
-https://artezaaqua.ru
-http://141.8.194.149:80
-https://141.8.194.149:443
 http://do-vod78.ru
 https://do-vod78.ru
 http://77.222.61.81:80
@@ -42,12 +32,6 @@ http://oasis-gidro.ru
 https://oasis-gidro.ru
 http://87.236.16.27:80
 https://87.236.16.27:443
-http://vipservicemarket.ru
-https://vipservicemarket.ru
-http://92.53.96.50:80
-https://92.53.96.50:443
-http://185.114.246.119:80
-https://185.114.246.119:443
 http://voda-piter.ru
 https://voda-piter.ru
 http://87.236.16.88:80
