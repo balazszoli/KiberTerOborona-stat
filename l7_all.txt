@@ -2,10 +2,6 @@ http://help-ukraine-people.com
 https://help-ukraine-people.com
 http://5.42.199.196:80
 https://5.42.199.196:443
-http://aqualife.ru
-https://aqualife.ru
-http://151.248.125.20:80
-https://151.248.125.20:443
 http://aquazet.ru
 https://aquazet.ru
 http://176.57.216.173:80
