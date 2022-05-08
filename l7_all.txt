@@ -46,6 +46,5 @@ http://h2o.ru
 https://h2o.ru 
 http://90.156.201.117:80
 https://90.156.201.117:443
-http://vodovoz.ru 
-http://92.255.106.247:80
-
+http://voda-piter.ru 
+http://151.248.116.191:80
