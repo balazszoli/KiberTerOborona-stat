@@ -30,3 +30,9 @@ http://www.zia.aero
 https://www.zia.aero
 http://93.90.220.74:80
 https://93.90.220.74:443
+http://severstal-avia.ru 
+https://severstal-avia.ru 
+http://5.23.51.195:80
+https://5.23.51.195:443
+http://45.130.41.40:80
+https://45.130.41.40:443
