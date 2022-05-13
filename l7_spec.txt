@@ -26,3 +26,7 @@ http://31.31.196.134:80
 https://31.31.196.134:443
 https://kras-avia.ru
 https://37.140.192.191:443
+http://www.zia.aero
+https://www.zia.aero
+http://93.90.220.74:80
+https://93.90.220.74:443
