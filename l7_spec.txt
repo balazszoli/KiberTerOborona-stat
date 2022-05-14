@@ -54,3 +54,25 @@ http://www.aviamordovia.ru
 https://www.aviamordovia.ru 
 http://31.31.196.97:80
 https://31.31.196.97:443
+http://www.flyaurora.ru 
+https://www.flyaurora.ru 
+http://178.248.239.100:80
+https://178.248.239.100:443
+https://www.flyaurora.ru 
+https://91.207.252.198:443
+http://www.oms.aero 
+https://www.oms.aero 
+http://186.2.163.60 :80
+https://186.2.163.60 :443
+https://aviaorsk.ru 
+https://185.71.67.151 :443
+http://www.aviaorsk.ru 
+http://213.221.30.25 :80
+http://airshd.ru 
+https://airshd.ru 
+http://195.208.1.102:80
+https://195.208.1.102:443
+http://nbc.aero 
+https://nbc.aero 
+http://195.208.1.115 :80
+https://195.208.1.115 :443
