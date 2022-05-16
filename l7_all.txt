@@ -9,3 +9,5 @@ https://146.120.90.19:443
 http://check.egais.ru
 https://check.egais.ru
 https://146.120.90.72:443
+http://utm.egais.ru
+https://utm.egais.ru
