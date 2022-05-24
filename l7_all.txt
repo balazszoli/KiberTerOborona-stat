@@ -150,10 +150,6 @@ http://ikanobank.ru
 https://ikanobank.ru
 http://185.32.57.43:80
 https://185.32.57.43:443
-http://test.ndb24.ru
-https://test.ndb24.ru
-http://195.208.1.101:80
-https://195.208.1.101:443
 https://ibank.bankd.ru
 https://109.232.250.91:443
 http://investpay.ru
@@ -200,16 +196,8 @@ http://www.balakovo-bank.ru
 https://www.balakovo-bank.ru
 http://45.130.41.14:80
 https://45.130.41.14:443
-http://rusnarbank.ru
-https://rusnarbank.ru
-http://37.9.12.8:80
-https://37.9.12.8:443
 https://m.bspb.ru
 https://213.172.3.49:443
-http://www.eco-invest.ru
-https://www.eco-invest.ru
-http://213.183.32.50:80
-https://213.183.32.50:443
 http://rnko-kholmsk.ru
 https://rnko-kholmsk.ru
 http://193.233.15.114:80
