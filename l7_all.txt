@@ -67,6 +67,7 @@ http://mspbank.ru
 https://mspbank.ru
 http://130.61.170.52:80
 https://130.61.170.52:443
+https://31.177.78.183:443
 https://lk.nskbl.ru
 https://109.232.248.73:443
 http://business.psbank.ru
