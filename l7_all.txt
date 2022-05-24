@@ -46,12 +46,11 @@ https://kbb.ru
 https://217.116.143.8:443
 https://dbo.pervbank.ru
 https://5.172.24.152:443
+https://31.28.105.86:443
 http://www.kuzbank.ru
 https://www.kuzbank.ru
 http://91.215.42.26:80
 https://91.215.42.26:443
-https://online.siab.ru
-https://91.220.218.204:443
 https://sso.sbis.ru
 https://91.232.93.70:443
 http://www.moskb.ru
