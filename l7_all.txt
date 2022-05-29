@@ -50,7 +50,6 @@ http://92.53.101.5:80
 https://92.53.101.5:443
 http://orsk.ru
 http://80.93.48.101:80
-
 https://penzanews.ru
 https://193.200.74.10:443
 http://penzavzglyad.ru
