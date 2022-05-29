@@ -44,10 +44,6 @@ http://most.tv
 https://most.tv
 http://82.202.210.218:80
 https://82.202.210.218:443
-http://newsomsk.ru
-https://newsomsk.ru
-http://82.202.170.70:80
-https://82.202.170.70:443
 http://ngs.ru
 https://ngs.ru
 http://195.19.220.25:80
@@ -87,10 +83,6 @@ http://svodka-nso.ru
 https://svodka-nso.ru
 http://90.156.201.60:80
 https://90.156.201.60:443
-http://vn.ru
-https://vn.ru
-http://78.40.218.109:80
-https://78.40.218.109:443
 http://www.mvestnik.ru
 https://www.mvestnik.ru
 http://185.253.34.49:80
