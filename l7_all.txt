@@ -10,16 +10,8 @@ http://www.province-pskov.ru
 https://www.province-pskov.ru
 http://185.84.108.56:80
 https://185.84.108.56:443
-http://161.ru
-https://161.ru
-http://195.19.220.26:80
-https://195.19.220.26:443
 https://atas.info
 https://95.181.181.92:443
-http://bk55.ru
-https://bk55.ru
-http://193.233.15.244:80
-https://193.233.15.244:443
 https://bloknot-rostov.ru
 https://185.66.87.242:443
 http://gorod55.ru
@@ -48,10 +40,6 @@ http://ngs.ru
 https://ngs.ru
 http://195.19.220.25:80
 https://195.19.220.25:443
-http://ngs55.ru
-https://ngs55.ru
-http://195.19.220.26:80
-https://195.19.220.26:443
 http://omskinform.ru
 https://omskinform.ru
 http://90.156.243.24:80
