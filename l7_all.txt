@@ -6,8 +6,6 @@ https://zsso.ru
 https://178.176.116.252:443
 https://www.udmurt.ru
 https://185.183.175.19:443
-http://gov.karelia.ru
-http://185.9.80.16:80
 https://egov-buryatia.ru
 https://188.170.228.59:443
 https://www.adygheya.ru
@@ -96,10 +94,6 @@ http://samgd.ru
 https://samgd.ru
 http://80.252.17.130:80
 https://80.252.17.130:443
-http://www.belduma.ru
-https://www.belduma.ru
-http://81.177.174.21:80
-https://81.177.174.21:443
 https://www.vologdazso.ru
 https://81.3.167.10:443
 https://www.primorsky.ru
@@ -128,10 +122,6 @@ http://www.khabkrai.ru
 https://www.khabkrai.ru
 http://91.233.247.114:80
 https://91.233.247.114:443
-http://www.zsvo.ru
-https://www.zsvo.ru
-http://92.53.96.221:80
-https://92.53.96.221:443
 https://tularegion.ru
 https://95.173.157.72:443
 https://www.zskuzbass.ru
