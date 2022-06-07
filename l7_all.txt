@@ -126,3 +126,7 @@ https://tularegion.ru
 https://95.173.157.72:443
 https://www.zskuzbass.ru
 https://95.191.131.106:443
+https://www.mos.ru
+https://94.79.51.14:443
+https://www.mos.ru
+https://212.11.155.167:443
