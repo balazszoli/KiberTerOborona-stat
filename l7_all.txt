@@ -16,8 +16,6 @@ https://www.duma.khv.ru
 https://212.19.5.136:443
 https://www.vrnoblduma.ru
 https://217.25.235.150:443
-https://karelia-zs.ru
-https://217.77.49.189:443
 http://parlamentchr.ru
 https://parlamentchr.ru
 http://37.140.192.79:80
@@ -28,10 +26,6 @@ http://iltumen.ru
 https://iltumen.ru
 http://77.242.2.127:80
 https://77.242.2.127:443
-http://www.zspk.gov.ru
-https://www.zspk.gov.ru
-http://79.137.222.152:80
-https://79.137.222.152:443
 https://75.ru
 https://83.234.179.130:443
 https://avo.ru
@@ -116,8 +110,6 @@ http://vologda-oblast.ru
 https://vologda-oblast.ru
 http://91.207.5.149:80
 https://91.207.5.149:443
-https://www.e-mordovia.ru
-https://91.221.0.183:443
 http://www.khabkrai.ru
 https://www.khabkrai.ru
 http://91.233.247.114:80
@@ -130,3 +122,17 @@ https://www.mos.ru
 https://94.79.51.14:443
 https://www.mos.ru
 https://212.11.155.167:443
+https://75.ru
+https://95.189.97.34:443
+http://novoblduma.ru
+https://novoblduma.ru
+http://92.255.104.22:80
+https://92.255.104.22:443
+https://www.dumahmao.ru
+https://188.16.169.106:443
+https://www.vologdazso.ru
+https://81.3.167.9:443
+http://www.yarregion.ru
+https://www.yarregion.ru
+http://91.201.208.103:80
+https://91.201.208.103:443
