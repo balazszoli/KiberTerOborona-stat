@@ -1,7 +1,3 @@
-http://novoblduma.ru
-https://novoblduma.ru
-http://176.53.161.225:80
-https://176.53.161.225:443
 https://zsso.ru
 https://178.176.116.252:443
 https://www.udmurt.ru
