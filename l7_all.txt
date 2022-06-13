@@ -2,8 +2,6 @@ http://slater.su
 https://slater.su
 http://178.208.83.57:80
 https://178.208.83.57:443
-https://www.docke.ru
-https://188.225.24.224:443
 http://alfaplace.ru
 https://alfaplace.ru
 http://217.172.24.225:80
@@ -78,10 +76,6 @@ http://krovelnyj-mir.ru
 https://krovelnyj-mir.ru
 http://87.236.16.216:80
 https://87.236.16.216:443
-http://xn----ctbjnddjkggvj2lm.xn--p1acf
-https://xn----ctbjnddjkggvj2lm.xn--p1acf
-http://87.236.16.216:80
-https://87.236.16.216:443
 http://roof-zavod.ru
 https://roof-zavod.ru
 http://87.236.16.22:80
@@ -106,3 +100,5 @@ http://stroymodul-krov.ru
 https://stroymodul-krov.ru
 http://87.249.38.253:80
 https://87.249.38.253:443
+https://xn----dtbwbgcqmd0i4b.xn--p1ai
+https://195.133.71.253:443
