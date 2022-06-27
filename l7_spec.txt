@@ -1,12 +1,1 @@
-http://nashstore.ru/
-https://nashstore.ru/
-http://store.nashstore.ru/
-https://store.nashstore.ru/
-http://cdnv.nashstore.ru/
-https://cdnv.nashstore.ru/
-http://95.181.181.62:80
-https://95.181.181.62:443
-http://95.181.181.18:80
-https://95.181.181.18:443
-http://178.176.128.128:80
-https://178.176.128.128:443
+https://www.roseltorg.ru/
