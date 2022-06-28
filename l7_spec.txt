@@ -15,3 +15,4 @@ https://www.roseltorg.ru/_flysystem/webdav/2021/12/07/Regulation_COS_Rosatom_v7.
 https://www.gosuslugi.ru/api/cms/v2/faq/categories/personal_documents
 https://www.gosuslugi.ru/api/mainpage/v4/?type=person®ion=00000000005
 https://www.gosuslugi.ru/api/catalog/v3/srfile/298/download?version=2
+https://roscosmos.ru/
