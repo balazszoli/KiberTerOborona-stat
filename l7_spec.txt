@@ -12,3 +12,6 @@ https://www.roseltorg.ru/search/sale?status[]=0¤cy=all&page=40&from=40&query_fi
 https://www.roseltorg.ru/search_ajax/fkr?status%5B%5D=0&source%5B%5D=13&query_field=1
 https://www.roseltorg.ru/_flysystem/webdav/2021/12/07/reglam_kim_RA.pdf
 https://www.roseltorg.ru/_flysystem/webdav/2021/12/07/Regulation_COS_Rosatom_v7.pdf
+https://www.gosuslugi.ru/api/cms/v2/faq/categories/personal_documents
+https://www.gosuslugi.ru/api/mainpage/v4/?type=person®ion=00000000005
+https://www.gosuslugi.ru/api/catalog/v3/srfile/298/download?version=2
