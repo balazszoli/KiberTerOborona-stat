@@ -50,3 +50,15 @@ http://account.retailcrm.ru
 https://account.retailcrm.ru
 http://80.93.188.242:80
 https://80.93.188.242:443
+http://esia.gosuslugi.ru
+https://esia.gosuslugi.ru
+http://213.59.254.8:80
+https://213.59.254.8:443
+http://push.roseltorg.ru
+https://push.roseltorg.ru
+http://185.79.118.3:80
+https://185.79.118.3:443
+http://ep.roseltorg.ru
+https://ep.roseltorg.ru
+http://185.215.4.10:80
+https://185.215.4.10:443
